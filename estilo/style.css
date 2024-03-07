@@ -45,7 +45,8 @@ header p{
     padding-left: 10px;
     text-align: center;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.473);
-    margin-bottom: 0px;     
+    padding-bottom: 30px;
+    margin: auto;     
 }
 
 header > h1 {
